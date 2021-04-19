@@ -5,7 +5,7 @@ game.Players.LocalPlayer:Kick("You're not Whitelisted! (Join dsc.gg/infinityx to
 print("Denied")
 end
 
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Infinity X Loaded!", Text = "Join Discord: dsc.gg/infinityx", Icon = "rbxassetid://105540093"})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Infinity X Loaded!", Text = "Join Discord: dsc.gg/infinityx", Icon = "rbxassetid://6701820771"})
 
 --[[
     Recorder,AimbotNotBoutToGetExposed
